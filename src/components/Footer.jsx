@@ -1,6 +1,6 @@
 import React from 'react'
 
-const NavLinks = () => {
+const Footer = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const NavLinks = () => {
   )
 }
 
-export default NavLinks
+export default Footer

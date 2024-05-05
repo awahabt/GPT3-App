@@ -1,6 +1,7 @@
+
 import React from 'react'
 
-const NavLinks = () => {
+const Business = () => {
   return (
     <div>
       
@@ -8,4 +9,4 @@ const NavLinks = () => {
   )
 }
 
-export default NavLinks
+export default Business
