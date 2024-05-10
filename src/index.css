@@ -13,7 +13,7 @@
 }
 .bg-gradient {
   position: absolute;
-  top: 10px;
+  top: 150px;
   background: linear-gradient(
     90deg,
     rgba(0, 40, 83, 1) 100%,
@@ -30,4 +30,12 @@
 }
 .bg-btn{
     background-color: #FF4820;
+}
+.bg-black-gradient{
+    background: linear-gradient(
+    144.39deg,
+    rgb(16, 65, 119) -278.56%,
+    rgba(0, 40, 83, 1) 0%,
+    #11101d 100%
+  );
 }

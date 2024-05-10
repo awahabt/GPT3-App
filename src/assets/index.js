@@ -13,6 +13,8 @@ import people from './people.png';
 import possibility from './possibility.png';
 import shopify from './shopify.png';
 import slack from './slack.png';
+import close from './close.svg';
+import menu from './menu.svg';
 
 
 export{
@@ -31,4 +33,6 @@ export{
     possibility,
     shopify,
     slack,
+    close,
+    menu,
 };
