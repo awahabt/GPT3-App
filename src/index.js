@@ -1,3 +1,5 @@
+import { atlassian, dropbox, google, shopify, slack } from "./assets";
+
 export const NavBarLinks=[
     {
         id: "home",
@@ -18,5 +20,29 @@ export const NavBarLinks=[
     {
         id: "library",
         title: "Library",
+    },
+];
+
+
+export const sponserLinks=[
+    {
+        id: google,
+        title: "Google",
+    },
+    {
+        id: slack,
+        title: "Slack",
+    },
+    {
+        id: atlassian,
+        title: "Atlassian",
+    },
+    {
+        id: dropbox,
+        title: "Dropbox",
+    },
+    {
+        id: shopify,
+        title: "Shopify",
     },
 ];
