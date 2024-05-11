@@ -7,7 +7,7 @@ const NavLinks = () => {
   return (
     <div className="flex w-full py-6 justify-between items-center">
       <div className="flex items-center gap-20">
-        <img src={logo} alt="GPT-3" className="w-[100px] h-[32px]" />
+        <img src={logo} alt="GPT-3" className="w-[70px] h-[32px]" />
         <ul className="list-none gap-10 flex items-center text-white max-[1120px]:hidden">
           {NavBarLinks.map((Links) => (
             <li key={Links.id} className="fontmanrop text-[19px]">
