@@ -91,3 +91,20 @@
     max-width: fit-content;
   }
 }
+
+.bg-WhatGPT3{
+  background-color: #042c54 ;
+}
+.gradient-div{
+  background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    background-clip: content-box;
+    -webkit-background-clip: content-box;
+    -webkit-text-fill-color: transparent;
+}
+.whatsGPT3-title{
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 8% 0 8%;
+  padding: 80px 0 20px 0;
+}

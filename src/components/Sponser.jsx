@@ -6,8 +6,8 @@ const Sponser = () => {
     <div className="justify-evenly items-center flex flex-wrap gap-5 text-white my-[100px]">
       {
         sponserLinks.map((image)=>(
-          <div >
-            <img src={image.id} alt={image.title} className="w-[130px]" />
+          <div>
+            <img key={image.id} src={image.id} alt={image.title} className="w-[130px]" />
           </div>
         ))
       }
