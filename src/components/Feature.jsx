@@ -1,12 +1,11 @@
-
 import React from 'react'
 
-const Business = () => {
+const feature = () => {
   return (
     <div>
-      
+      abc
     </div>
   )
 }
 
-export default Business
+export default feature

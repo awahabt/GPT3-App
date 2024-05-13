@@ -2,7 +2,7 @@ import React from "react";
 
 const WhatsGPT3 = () => {
   return (
-    <div className="bg-WhatGPT3">
+    <div className="bg-WhatGPT3 pb-20">
       <div className="flex whatsGPT3-title mx-[8%]">
         <div className="max-w-[165px]">
           <div className="gradient-div w-14 h-1" />
@@ -27,7 +27,7 @@ const WhatsGPT3 = () => {
         </a>
       </div>
 
-      <div className="flex gap-10 whatsGPT3-title pb-20">
+      <div className="flex gap-10 whatsGPT3-title">
         <div>
           <div className="justify-between fontmanrop">
             <div className="gradient-div w-14 h-1" />
