@@ -1,5 +1,5 @@
 import React from 'react'
-import { sponserLinks } from '..'
+import { sponserLinks } from '../index'
 
 const Sponser = () => {
   return (
