@@ -45,6 +45,12 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.bg-gradient {
+  background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+  background-clip: content-box;
+  -webkit-background-clip: content-box;
+  -webkit-text-fill-color: transparent;
+}
 .main-div{
   display: flex;
   justify-content: center;
@@ -107,4 +113,7 @@
   align-items: center;
   margin: 0 8% 0 8%;
   padding: 80px 0 20px 0;
+}
+.CTA{
+  padding: 60px 70px;
 }

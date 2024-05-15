@@ -5,6 +5,7 @@ import Footer from "./Footer";
 import WhatsGPT3 from "./WhatsGPT3";
 import Feature from "./Feature";
 import Possibility from "./Possibility";
+import CTA from "./CTA";
 
 
 
@@ -15,5 +16,6 @@ export {
     WhatsGPT3,
     Feature,
     Possibility,
+    CTA,
     Footer,  
 };
