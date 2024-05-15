@@ -2,7 +2,7 @@ import React from "react";
 
 const CTA = () => {
   return (
-    <div className="flex flex-wrap gap-10 bg-gradiet items-center bg-red-100 rounded-xl justify-between CTA fontmanrop max-[1080px]:justify-center max-[1080px]:mx-[4%]">
+    <div className="flex flex-wrap gap-10 bg-gradients items-center rounded-xl justify-between CTA fontmanrop max-[1080px]:justify-center max-[1080px]:mx-[4%]">
       <div className=" gap-6 max-[1076px]:text-center">
         <a href="#" className="text-black text-[16px]">
         Request Early Access to Get Started

@@ -45,11 +45,8 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-.bg-gradient {
-  background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
-  background-clip: content-box;
-  -webkit-background-clip: content-box;
-  -webkit-text-fill-color: transparent;
+.bg-gradients {
+  background: linear-gradient(90deg, #AE67FA 20%, #F49867 100%);
 }
 .main-div{
   display: flex;
