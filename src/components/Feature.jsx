@@ -11,7 +11,7 @@ import { FeatureLinks } from "../index";
 
 const feature = () => {
   return (
-    <div className="flex gap-16 flex-wrap my-[150px] justify-between fontmanrop max-[1196px]:justify-center max-[730px]:px-[8%]">
+    <div className="flex gap-16 flex-wrap mt-[150px] mb-[100px] justify-between fontmanrop max-[1196px]:justify-center max-[730px]:px-[8%]">
       <div className="">
         <p className="gradient-text text-4xl leading-normal max-w-[470px] font-extrabold max-[401px]:text-2xl">
           The Future is Now and You Just Need To Realize It. Step into Future

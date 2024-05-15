@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLinks, Hero, Sponser, WhatsGPT3, Feature} from "./components";
+import { NavLinks, Hero, Sponser, WhatsGPT3, Feature, Possibility} from "./components";
 
 const App = () => (
   <div className="bg w-full overflow-hidden">
@@ -10,6 +10,7 @@ const App = () => (
         <Sponser/>
         <WhatsGPT3/>
         <Feature/>
+        <Possibility/>
       </div>
     </div>
     <div className="bg-gradient w-[20%] h-[30%] absolute z-[2]" />
