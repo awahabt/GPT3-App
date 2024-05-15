@@ -22,15 +22,15 @@ const feature = () => {
         </a>
       </div>
 
-      <div>
+      <div className="justify-center">
         {FeatureLinks.map((tit) => (
-          <div className="flex justify-between fontmanrop gap-16 items-center">
-            <div className="text-white font-bold max-w-[180px] text-xl my-6 max-[401px]:text-xl">
+          <div className="flex flex-wrap justify-between fontmanrop gap-16 items-center max-[730px]:gap-6">
+            <div className="text-white font-bold max-w-[180px] text-xl my-6 max-[401px]:text-xl max-[730px]:mb-0 ">
               <div className="gradient-div w-14 h-1 mb-2" />
               <p className="text-white">{tit.title}</p>
             </div>
 
-            <div className="text-dimWhite max-w-[370px] my-6">{tit.description}</div>
+            <div className="text-dimWhite max-w-[370px] my-6 max-[730px]:mt-0">{tit.description}</div>
           </div>
         ))}
       </div>
