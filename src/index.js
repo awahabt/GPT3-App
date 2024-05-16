@@ -1,4 +1,4 @@
-import { atlassian, dropbox, google, shopify, slack } from "./assets";
+import { atlassian, blog01,blog02, blog03, blog04, blog05, dropbox, google, shopify, slack } from "./assets";
 
 export const NavBarLinks=[
     {
@@ -66,3 +66,4 @@ export const FeatureLinks=[
         description: "Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush.",
     },
 ];
+
