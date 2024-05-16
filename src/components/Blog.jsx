@@ -29,7 +29,7 @@ const Blog = () => {
         <div className=" flex-[0.75] min-[1050px]:mr-8 max-[1050px]:mb-8 max-[650px]:mb-4">
           <ArticleData image={blog01} date={"April 26, 2024"} title={"GPT-3 and Open  AI is the future. Let us exlore how it is?"}/>
         </div>
-        <div className="flex-1 grid grid-cols-2 min-[450px]:gap-8 max-[450px]:flex-wrap max-[450px]:grid-cols-1 max-[450px]:gap-4">
+        <div className="flex-1 grid grid-cols-2 min-[450px]:gap-8 max-[450px]:flex-wrap max-[560px]:grid-cols-1 max-[450px]:gap-4">
         <ArticleData image={blog02} date={"April 26, 2024"} title={"GPT-3 and Open  AI is the future. Let us exlore how it is?"}/>
         <ArticleData image={blog03} date={"April 26, 2024"} title={"GPT-3 and Open  AI is the future. Let us exlore how it is?"}/>
         <ArticleData image={blog04} date={"April 26, 2024"} title={"GPT-3 and Open  AI is the future. Let us exlore how it is?"}/>
