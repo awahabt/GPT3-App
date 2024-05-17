@@ -2,7 +2,7 @@ import React from "react";
 import { blog01, blog02, blog03, blog04, blog05 } from "../assets";
 
 const ArticleData = ({ image, date, title }) => (
-  <div className="w-full h-full flex flex-col bg-[#031B34] ">
+  <div className="w-full h-full flex flex-col bg-[#042C54] ">
     <div className="w-full h-full bg-[#040C18]">
       <img src={image} alt="Blog Image" className="w-full h-full object-fit" />
     </div>
