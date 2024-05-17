@@ -1,4 +1,4 @@
-/* eslint no-use-before-define: 0 */  // --> OFF
+/* eslint-disable */
 
 import NavLinks from "./NavLinks";
 import Hero from "./Hero";
