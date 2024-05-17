@@ -8,8 +8,8 @@ import {
   CTA,
   Blog,
   Footer,
-  Hero,
 } from "./components";
+import Hero from "./components/Hero";
 
 const App = () => (
   <div className="bg w-full overflow-hidden">
