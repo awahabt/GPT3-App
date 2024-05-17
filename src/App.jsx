@@ -1,12 +1,12 @@
 import React from "react";
-import { NavLinks, Hero, Sponser, WhatsGPT3, Feature, Possibility, CTA, Blog, Footer} from "./components";
+import { NavLinks, Sponser, WhatsGPT3, Feature, Possibility, CTA, Blog, Footer} from "./components";
 
 const App = () => (
   <div className="bg w-full overflow-hidden">
     <div className="px-6 flex justify-center items-center max-[640px]:px-16">
       <div className="xl:max-w-[1380px] w-full">
         <NavLinks />
-        <Hero/>
+        {/* <Hero/> */}
         <Sponser/>
         <WhatsGPT3/>
         <Feature/>

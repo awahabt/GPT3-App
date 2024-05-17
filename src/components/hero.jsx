@@ -1,4 +1,3 @@
-import React from "react";
 import { ai, people } from "../assets";
 
 const Hero = () => {
