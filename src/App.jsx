@@ -9,14 +9,15 @@ import {
   Blog,
   Footer,
 } from "./components";
-import Hero from "./components/Hero";
+import Header from "./components/Header";
+
 
 const App = () => (
   <div className="bg w-full overflow-hidden">
     <div className="px-6 flex justify-center items-center max-[640px]:px-16">
       <div className="xl:max-w-[1380px] w-full">
         <NavLinks />
-        <Hero />
+        <Header />
         <Sponser />
         <WhatsGPT3 />
         <Feature />
