@@ -8,16 +8,14 @@ import Possibility from "./Possibility";
 import CTA from "./CTA";
 import Blog from "./Blog";
 
-
-
 export {
-    NavLinks, 
-    Hero,
-    Sponser,
-    WhatsGPT3,
-    Feature,
-    Possibility,
-    CTA,
-    Blog,
-    Footer,  
+  NavLinks,
+  Hero,
+  Sponser,
+  WhatsGPT3,
+  Feature,
+  Possibility,
+  CTA,
+  Blog,
+  Footer,
 };
