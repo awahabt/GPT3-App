@@ -49,7 +49,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <p className="fontmanrop text-white">© 2021 GPT-3. All rights reserved.</p>
+      <p className="fontmanrop text-white px-[8%] text-center">© 2021 GPT-3. All rights reserved.</p>
     </div>
   );
 };
