@@ -1,7 +1,7 @@
 import React from "react";
 import { ai, people } from "../assets";
 
-const hero = () => {
+const Hero = () => {
   return (
     <div className=" flex-wrap min-[1386px]:flex min-[1386px]:justify-between max-[1386px]:items-center main-div ">
       <div className="fontmanrop mt-16 max-[1386px]:w-[100%] max-[1386px]:text-center min-[1386px]:w-[600px] max-[1386px]:items-center">
@@ -39,4 +39,4 @@ const hero = () => {
   );
 };
 
-export default hero;
+export default Hero;
