@@ -1,3 +1,5 @@
+/* eslint no-use-before-define: 0 */  // --> OFF
+
 import NavLinks from "./NavLinks";
 import Hero from "./Hero";
 import Sponser from "./Sponser";
