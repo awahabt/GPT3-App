@@ -8,10 +8,11 @@ import Feature from "./Feature";
 import Possibility from "./Possibility";
 import CTA from "./CTA";
 import Blog from "./Blog";
+import Hero from "./Hero";
 
 export {
   NavLinks,
-
+  Hero,
   Sponser,
   WhatsGPT3,
   Feature,
