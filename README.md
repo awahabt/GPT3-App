@@ -1,8 +1,16 @@
-# React + Vite
+# GPT-3 React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository hosts a GPT-3 based interactive website built using React. The project showcases the integration of OpenAI's GPT-3 with a modern front-end framework to create a dynamic and responsive user interface. Users can interact with the AI model directly through the website, which demonstrates capabilities such as natural language understanding, text generation, and real-time response handling.
 
-Currently, two official plugins are available:
+![GPT-3 App](https://github.com/awahabt/GPT3-App/assets/133004396/db7734b1-9ef8-49eb-81b1-a4e2c7b06ad8)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ 
+### Technologies Used
+- **React**: For building the front-end interface.
+- **CSS**: For styling the components.
+- **Vercel**: For deployment and hosting.
+
+Explore the project live [here](https://gpt-3react-proj-abdul-wahab-tahirs-projects.vercel.app/).
+
+
+Contributions are welcome! Feel free to open issues or submit pull requests for improvements.
