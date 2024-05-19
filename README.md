@@ -2,7 +2,9 @@
 
 This repository hosts a GPT-3 based interactive website built using React. The project showcases the integration of OpenAI's GPT-3 with a modern front-end framework to create a dynamic and responsive user interface. Users can interact with the AI model directly through the website, which demonstrates capabilities such as natural language understanding, text generation, and real-time response handling.
 
-![GPT-3 App](https://github.com/awahabt/GPT3-App/assets/133004396/db7734b1-9ef8-49eb-81b1-a4e2c7b06ad8)
+
+![GPT-3](https://github.com/awahabt/GPT3-App/assets/133004396/a14d7eba-db57-4176-8792-af1677bcff26)
+
 
  
 ### Technologies Used
